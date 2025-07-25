@@ -1,4 +1,4 @@
----
+---king freefire
 manufacturer: samsung
 
 ---
